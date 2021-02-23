@@ -3,3 +3,6 @@ some codegit st
 
 edit written locally
 edit written locally
+
+
+edit written remotely
